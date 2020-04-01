@@ -3,3 +3,6 @@
 * SyntaxError
 * NameError
 * TypeError
+* AttributeError
+* ValueError
+
