@@ -6,3 +6,4 @@
 * AttributeError
 * ValueError
 * IndentationError
+* IndexError
