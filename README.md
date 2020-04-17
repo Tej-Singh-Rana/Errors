@@ -7,3 +7,4 @@
 * ValueError
 * IndentationError
 * IndexError
+* KeyError
